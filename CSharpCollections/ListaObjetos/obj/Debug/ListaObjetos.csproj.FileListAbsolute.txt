@@ -1,0 +1,7 @@
+C:\Users\Alessandro\source\repos\CSharpCollections\ListaObjetos\bin\Debug\ListaObjetos.exe.config
+C:\Users\Alessandro\source\repos\CSharpCollections\ListaObjetos\bin\Debug\ListaObjetos.exe
+C:\Users\Alessandro\source\repos\CSharpCollections\ListaObjetos\bin\Debug\ListaObjetos.pdb
+C:\Users\Alessandro\source\repos\CSharpCollections\ListaObjetos\obj\Debug\ListaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\CSharpCollections\ListaObjetos\obj\Debug\ListaObjetos.exe
+C:\Users\Alessandro\source\repos\CSharpCollections\ListaObjetos\obj\Debug\ListaObjetos.pdb
+C:\Users\Alessandro\source\repos\CSharpCollections\ListaObjetos\obj\Debug\ListaObjetos.csprojAssemblyReference.cache

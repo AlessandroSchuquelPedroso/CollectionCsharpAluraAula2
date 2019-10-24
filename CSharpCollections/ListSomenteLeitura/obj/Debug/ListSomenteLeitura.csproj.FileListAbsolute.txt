@@ -1,0 +1,7 @@
+C:\Users\Alessandro\source\repos\CSharpCollections\ListSomenteLeitura\bin\Debug\ListSomenteLeitura.exe.config
+C:\Users\Alessandro\source\repos\CSharpCollections\ListSomenteLeitura\bin\Debug\ListSomenteLeitura.exe
+C:\Users\Alessandro\source\repos\CSharpCollections\ListSomenteLeitura\bin\Debug\ListSomenteLeitura.pdb
+C:\Users\Alessandro\source\repos\CSharpCollections\ListSomenteLeitura\obj\Debug\ListSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\CSharpCollections\ListSomenteLeitura\obj\Debug\ListSomenteLeitura.exe
+C:\Users\Alessandro\source\repos\CSharpCollections\ListSomenteLeitura\obj\Debug\ListSomenteLeitura.pdb
+C:\Users\Alessandro\source\repos\CSharpCollections\ListSomenteLeitura\obj\Debug\ListSomenteLeitura.csprojAssemblyReference.cache

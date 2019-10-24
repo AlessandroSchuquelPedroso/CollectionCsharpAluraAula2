@@ -1,0 +1,7 @@
+C:\Users\Alessandro\source\repos\CSharpCollections\CSharpCollections\bin\Debug\CSharpCollections.exe.config
+C:\Users\Alessandro\source\repos\CSharpCollections\CSharpCollections\bin\Debug\CSharpCollections.exe
+C:\Users\Alessandro\source\repos\CSharpCollections\CSharpCollections\bin\Debug\CSharpCollections.pdb
+C:\Users\Alessandro\source\repos\CSharpCollections\CSharpCollections\obj\Debug\CSharpCollections.csprojAssemblyReference.cache
+C:\Users\Alessandro\source\repos\CSharpCollections\CSharpCollections\obj\Debug\CSharpCollections.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\CSharpCollections\CSharpCollections\obj\Debug\CSharpCollections.exe
+C:\Users\Alessandro\source\repos\CSharpCollections\CSharpCollections\obj\Debug\CSharpCollections.pdb
